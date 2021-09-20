@@ -1,0 +1,410 @@
+000	.v.
+001	0x0077be
+002	1904.cc
+003	99of9
+004	a. parrot
+005	a.c. norman
+006	abacatabacaxi
+007	abby83
+008	abc27400
+009	acather96
+010	acerperi
+011	adaru
+012	afrocatz
+013	aguerriero
+014	aibarr
+015	ailes grises
+016	aka mbg
+017	aka_mbg
+018	alabaster constantine iii
+019	alanasings
+020	alekjds
+021	alexbrewer
+022	alexkillby
+023	alexmanchester
+024	alfiecannnock
+025	allenzh
+026	alr
+027	ama1016
+028	ambuj.saxena
+029	american patriot 1776
+030	anaxial
+031	andmott
+032	andrew d white
+033	animeshadows
+034	antasevaalya
+035	arbitrarily0
+036	aridd
+037	arrowdynamicsx
+038	arsia mons
+039	arthurtj
+040	arwel_parry
+041	ashlin
+042	audioman
+043	barkingfish
+044	batmanand
+045	beck162
+046	bellito
+047	beno1000
+048	bernstein2291
+049	bluearctos
+050	bluemarine
+051	bmicomp
+052	borisblue
+053	boweruk
+054	bowie media
+055	brian newberry
+056	brinticus
+057	calvin 1998
+058	cameltrader
+059	caninedoubletake
+060	cat1205123
+061	cbdroege
+062	cchan199206
+063	cfeyrer
+064	cgp
+065	chadley99
+066	chamaeleon
+067	charcoal
+068	chris roy
+069	christopherwoods
+070	chuancheng
+071	cinosaur
+072	cintoli
+073	ckamaeleon
+074	cliftonpage
+075	cmat
+076	cobrafountain
+077	cognate247
+078	colouredpencils
+079	coolcat
+080	craigy144
+081	crazytales
+082	cryptic c62
+083	cupobeans
+084	dajes13
+085	dan carkner
+086	dancing raccoon
+087	danielholth
+088	darren husted
+089	davumaya
+090	dbrouse
+091	dcoetzee
+092	demi
+093	derfel73
+094	dev920
+095	divinemeaninglessness
+096	dmcdevit
+097	dmitry brant
+098	do'neil
+099	docontheweb
+100	dokidokes
+101	donbert
+102	donnyj
+103	dreamsreign
+104	drjacobson
+105	drkencarter
+106	dukeruckley
+107	dwaipayanc
+108	dweekly
+109	eite1wil
+110	eleaverton
+111	eleshamc
+112	elizabeyth
+113	emmiecc
+114	english and simple wikipedia coontributors  (sound files are spoken word versions of articles referenced in file name)
+115	enochlau
+116	enormator
+117	enviroboy
+118	epolk
+119	erikpatt
+120	esteffect
+121	etimbo
+122	etoile
+123	ex-nimh-researcher
+124	falconilla red foreman
+125	fang aili
+126	faxcelestis
+127	finlay mcwalter
+128	finnish reader
+129	flaminglawyer
+130	fliry vorru
+131	flowerparty
+132	flyingtoaster
+133	fortyseven
+134	frogbrains
+135	fumitol
+136	funkyspecs
+137	fuzheado
+138	gallen89
+139	genjix
+140	gerolsteiner91
+141	gigs
+142	gilbertosilvafan
+143	goh wz
+144	gonknet
+145	gonzonoir
+146	gorillawarfare
+147	hajenso
+148	halidecyphon
+149	hamiltonstone
+150	hassocks5489
+151	hkeely
+152	honinbou
+153	house_clegane
+154	iceflow
+155	icey
+156	incledon
+157	it's-is-not-a-genitive
+158	ixthus
+159	jackpotden
+160	jacksalssome
+161	jake wasdin
+162	jamen somasu
+163	jasenlee
+164	jason
+165	jasonlamarche
+166	jccrussell
+167	jdhowens90
+168	jdoorjam
+169	jebjoya
+170	jimmy breck-mckye
+171	joaopais
+172	johnrpenner
+173	jonjalin
+174	jormallester
+175	jsharpminor
+176	jules ismail
+177	jzcl
+178	k9taylor
+179	ka-ping yee
+180	karltalk
+181	kenjamin
+182	kenkuhl
+183	kenumay
+184	kevin f. story
+185	kewpid
+186	kingdon
+187	koman90
+188	kungfuadam
+189	kwroebuck
+190	laganojunior
+191	laura s
+192	laura_domineau
+193	laurahale
+194	laurascudder
+195	laurenpt015
+196	learnerktm
+197	learnoutloud.com
+198	leotohill
+199	lexlexlex
+200	lgsoltek
+201	liamkeanedotcom
+202	lightdarkness
+203	linuxrox
+204	literatpj
+205	liverpudlian100
+206	ljl
+207	llamax0r
+208	lordoider
+209	lucas thoms
+210	luigi30
+211	m4th5
+212	m87
+213	macaddct1984
+214	macropode
+215	macusercom
+216	madridteacher1
+217	mangst
+218	mantisian
+219	marcus_bowen
+220	markkasan
+221	martin schlederer
+222	masonpatriot
+223	masterdirk
+224	matthew anton
+225	matthewdgonzalez
+226	mayooresan
+227	mckaysalisbury
+228	mdd4696
+229	messedrocker
+230	mikael häggström
+231	mikewhitcombe
+232	mjquin_id
+233	mm35173
+234	mnntoino
+235	monocletophat123
+236	montrealais
+237	moulder
+238	mr senseless
+239	mrandrewnohome
+240	mrdallaway
+241	music2611
+242	mykreeve
+243	nbierma
+244	neosuperblissey
+245	nicholasturnbull
+246	nicojonesgodel
+247	none
+248	nzseries1
+249	oblong1
+250	oisinisio
+251	okso
+252	omaryak
+253	omeoe
+254	onel5969
+255	ooddiittyy
+256	orchid righteous
+257	p.b. pilhet
+258	pacian
+259	panser born
+260	patrickjoel
+261	peppage
+262	persian poet gal
+263	peter mcginley
+264	phearson
+265	phil-hong
+266	phoenixowl
+267	pilot_dawg
+268	pinangjawa
+269	pjf
+270	podpedia
+271	popularoutcast
+272	pordaria
+273	potteryfreak
+274	preslethe
+275	pswissler
+276	puffin
+277	pvvni
+278	pyrogamer
+279	quas naart
+280	rabiddog51sb
+281	radio.edit
+282	ralmin
+283	random2502
+284	rchandra
+285	readington
+286	realgrouchy
+287	reason turns rancid
+288	rebelguys2
+289	redsoxfan274
+290	rfc1394
+291	richard taylor
+292	richardhanstock
+293	rsskill
+294	runfellow
+295	rybupsp
+296	s_whistler
+297	salsasam
+298	saxsux
+299	scehardt
+300	scott burley
+301	sctechlaw
+302	seasponges
+303	sedola
+304	sergeantbolt
+305	sethallen623
+306	sethda
+307	shayday~enwiki
+308	shivaji mitra
+309	silas s. brown
+310	sillywilly
+311	silsor
+312	simonxag
+313	sirflashington
+314	sirlispsalot
+315	sixteen left
+316	skybon
+317	slashdottir
+318	slovakjoe
+319	slsslssls
+320	smith609
+321	snowboy83
+322	somejeff
+323	soothingr
+324	sophie
+325	sophus bie
+326	speaker eric
+327	speakthings:mellerbeck
+328	spoken by:  hi878  sound editing by:  london rook
+329	spongesebastian
+330	spoœekspaar
+331	spring l eisiminger
+332	sspungy
+333	steinsky
+334	stepleton
+335	stifle
+336	storkk
+337	stranger195
+338	stylessan
+339	supa6661
+340	surloc
+341	t j mckenzie
+342	taestell
+343	targaryen
+344	tarif7
+345	tbonespop
+346	tdxiang
+347	tgies
+348	thatgirltayler
+349	the editor1
+350	the epopt
+351	the fwanksta
+352	the jacobin
+353	the king
+354	the seraphim
+355	the voice of hassocks
+356	the_seraphim
+357	theboatashore
+358	thecyberwasp
+359	theexistentialist_383
+360	theexistentialist_686
+361	theloveroflove
+362	theroachyjay
+363	thevoicebeforethevoid
+364	thorubon
+365	timwi
+366	tlogmer
+367	tmalmjursson
+368	tom morris
+369	tonyle
+370	tonystewart14
+371	trbleclef
+372	triacylglyceride
+373	tristessa de st ange
+374	tsteele6815
+375	tsuiokuhen
+376	two2thehead
+377	uk-logician-2006
+378	unigolyn
+379	urbanxplorer
+380	valerieinto
+381	vaslittlecrow
+382	viktor o. ledenyov
+383	vneiomazza
+384	vr-land
+385	vulture19
+386	walkeraj
+387	warmvoiceover
+388	warpig
+389	warpig1994
+390	white whirlwind
+391	whouk
+392	wikibofh
+393	wikifier
+394	wikipedia
+395	willmcw
+396	willsax
+397	witbcoedus
+398	wodup
+399	xawery
+400	yarnbarndarn
+401	ybatalvi
+402	yelocab
+403	yutsi
+404	zach_brissett
+405	zanimum
+406	zegoma beach
+407	zeimusu
+408	zellfaze
+409	zoohouse
