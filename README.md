@@ -1,2 +1,6 @@
-# Few-Shot_Sound_Event_Detection_with_Prototypical_Neural_Networks
-Study in using Prototypical NN for using Metric-based Meta Learning for Sound Event Detection
+# Few-Shot Sound Event Detection with Prototypical Neural Networks
+Study in using Metric-based Meta Learning for Sound Event Detection. 
+
+
+
+
