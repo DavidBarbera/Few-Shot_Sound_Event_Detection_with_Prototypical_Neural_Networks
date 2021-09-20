@@ -19,11 +19,13 @@ Study in using Metric-based Meta Learning for Sound Event Detection. It is based
 
 
   
-   <b>Note: Works and Tested in my computer. However, as I am creating this repo open source there is still some work in progress. Requires:</b>
+   <b>Note: Works and Tested in my computer. However, as I am creating this repo open source there is still some work in progress which I will do in the following days. Requires:</b>
    1. Finish Readme
    2. Installation instructions
-   3. Scripts to Download and preprocess SWC corpora to recreate experiment.
-   4. Reproduces similar Wang et al. 2020 results for Prototypical Neural Networks despite using different split sets.
+   3. Scripts to Download and preprocess SWC corpora to recreate experiment.  
+   
+   <b> Highlight: Reproduces similar results as Wang et al. 2020 on SWC corpora for Prototypical Neural Networks despite using different split sets. </b>
+   
 
 
 
