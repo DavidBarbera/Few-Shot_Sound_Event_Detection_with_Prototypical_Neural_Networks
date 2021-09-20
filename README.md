@@ -1,7 +1,8 @@
 # Few-Shot Sound Event Detection with Prototypical Neural Networks
-Study in using Metric-based Meta Learning for Sound Event Detection. 
+Study in using Metric-based Meta Learning for Sound Event Detection. It is based in the following two articles:  
 
-
+1. Wang, Y., Salamon, J., Bryan, N. J., & Pablo Bello, J. (2020). Few-Shot Sound Event Detection. ICASSP 2020
+2. Snell, J., Swersky, K., & Zemel, R. (2017). Prototypical Networks for Few-shot Learning. Advances in Neural Information Processing Systems
 
 
 <figure align="center">
